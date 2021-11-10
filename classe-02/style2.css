@@ -1,0 +1,76 @@
+body{
+    background-color: #E5E5E5;
+    padding: 100px;
+}
+
+.aspas{
+    max-width: 320px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 0px 85px 0px 80px;
+    margin-bottom: 80px;
+
+}
+.d{
+    padding-top: 55px;
+}
+.texto1{
+    font-family: 'Merriweather', serif;
+
+    font-size: 22px;
+   
+}
+
+.texto2{
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    max-width: 140px;
+    font-size: 14px;
+    padding: 10px 0px 55px 0px;
+}
+.azul{
+
+    background-color: #101439;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    max-width: 400px;
+   
+
+}
+.um{
+    color:#FFFFFF ;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 60px 266px 10px 60px;
+
+}
+.dois{
+    color:#FFFFFF ;
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
+    padding: 0px 0px 13px 60px;
+
+}
+.tres{
+    color:#FFFFFF ;
+    padding: 0px 65px 45px 60px;
+    border: 0 auto;
+  
+    
+
+}
+
+a{
+    background-color: #FFFFFF;
+    color:#101439 ;
+    text-decoration: none ;
+    border-radius: 10px;
+    padding: 0px 65px 50px 60px;
+    margin-bottom: 200px;
+    border-bottom: 200px;
+}
+.card{
+    
+    padding-bottom: 100px;
+    text-align: center;
+}
